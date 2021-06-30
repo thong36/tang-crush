@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'chị Thoa à!',
+    introTitle: 'chị uyên à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao chị cứ đi nhầm đường
     Lạc vào tim em lẻ loi
